@@ -1,7 +1,5 @@
 # EmoTune.AI
 
-![AI Support](https://via.placeholder.com/800x300?text=AI+Driven+Support)
-
 ## 🌍 Problem Statement: Open Innovation
 
 **AI-driven emotional support, mood-based therapy, and personalized music therapy.**
