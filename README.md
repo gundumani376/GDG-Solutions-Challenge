@@ -12,7 +12,7 @@ Our project leverages AI, healthcare, and wearable technology to provide a seaml
 
 ✅ **Good Health & Well-Being** (SDG 3)  
 ✅ **Industry, Innovation, and Infrastructure** (SDG 9)  
-✅ **Sustainable Cities and Communities** (SDG 11)  
+✅ **Sustainable Cities and Communities** (SDG 11)
 
 ---
 
